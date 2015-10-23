@@ -22,6 +22,11 @@
 		"display-name": "Forum name in Topic",
 		"soft-require": {
 			"phpbb/phpbb": ">=3.1.0-a1,<3.2.*@dev"
+		},
+		"version-check": {
+			"host": "www.dmzx-web.net",
+			"directory": "/versions",
+			"filename": "forumnameintopic_version.json"
 		}
 	}
 }
