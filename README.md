@@ -1,5 +1,7 @@
 # phpBB Forum name in Topic Extension
 
+[![Build Status](https://travis-ci.org/dmzx/Forum-name-in-Topic.svg?branch=master)](https://travis-ci.org/dmzx/Forum-name-in-Topic)
+
 ## Install
 
 1. Download the latest release.
